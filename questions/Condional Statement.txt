@@ -1,0 +1,15 @@
+1. Explain the difference between if, elif, and else statements in Python.
+2. How does the and, or, and not operators work in Python conditional statements? Provide examples
+3. Describe how Python evaluates a chain of if-elif-else statements.
+4. How can nested if statements be used in Python? Provide an example where nested conditions are necessary.
+5. What is the significance of indentation in Python's conditional statements?
+6. How does Python handle conditions that involve multiple comparisons, such as 5 < x < 10?
+
+Practicle 
+7. Write a Python program that checks if a number is positive, negative, or zero.
+8. Create a program that asks the user for a number and checks if it's even or odd using an if-else statement.
+9. Implement a Python program that categorizes a person's age into 'Child', 'Teen', 'Adult', or 'Senior' based on input using if-elif-else.
+10. Create a Python program that calculates the grade of a student based on their score using conditional statements.
+11. Develop a program that checks if a string is a palindrome using conditional statements.
+12. Create a Python program that determines if a given character is a vowel or consonant.
+13. Write a program that checks if a number is divisible by both 4 and 5, only 4, only 5, or neither.

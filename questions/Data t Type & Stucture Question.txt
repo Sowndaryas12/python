@@ -1,0 +1,18 @@
+1. Explain the difference between mutable and immutable data types in Python. Provide examples of each.
+2. Describe how Python handles type conversion between int, float, and str.
+3. Compare and contrast a list and a tuple in Python. When would you prefer to use one over the other?
+4. How does Python’s set data structure ensure uniqueness of elements? What operations can be performed on a set?
+5. Discuss how boolean values (True and False) are used in conditional statements and loops.
+6. What are some common operations that can be performed on strings in Python? Provide examples.
+7. Explain the concept of dictionary keys in Python. Why must they be immutable?
+8. How does Python handle the arithmetic operation between an int and a float? What is the resulting type?
+
+Practicle
+9. Write a Python script to convert a list of strings into a dictionary, where each string is a key and the length of the string is the corresponding value.
+10. Given a list of integers, write a program to remove all duplicate values using a set and return the list in sorted order.
+11. Create a program that initializes an empty dictionary and then populates it by prompting the user to enter a key-value pair five times.
+12. Write a Python script that takes a list of tuples, where each tuple contains a name and age, and converts it into a dictionary with the name as the key and the age as the value.
+13. Merge two dictionaries with the second dictionary overwriting duplicate keys
+14. How can you convert a list to a tuple and vice versa in Python?
+15. Explain the concept of slicing in Python. How does it work with lists and strings?
+16. Peform a list, Tuple, Dictinory and Set using a Example.

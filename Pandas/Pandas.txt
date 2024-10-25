@@ -1,0 +1,28 @@
+# Sample dataset: Employee records
+data = {
+    'Employee_ID': [101, 102, 103, 104, 105],
+    'Name': ['John', 'Emily', 'Michael', 'Sarah', 'David'],
+    'Department': ['HR', 'Finance', 'IT', 'Marketing', 'Sales'],
+    'Salary': [60000, 70000, 80000, 75000, 65000],
+    'Age': [35, 28, 42, 30, 38]
+}
+
+1. What is the function to create a DataFrame in pandas?
+2. How can you display the first 5 rows of a DataFrame?
+3. How do you check the dimensions of a DataFrame?
+4. What method is used to check for missing values in a DataFrame?
+5. How do you select a single column from a DataFrame?
+6. How do you rename a specific column in a DataFrame?
+7. What method is used to drop rows with missing values in a DataFrame?
+8. How can you filter rows in a DataFrame based on a condition?
+9. What function can be used to apply a function to each element of a DataFrame column?
+10. How do you sort a DataFrame by values in a specific column?
+11. What method can you use to create a new column based on existing columns in a DataFrame?
+12. How can you save a DataFrame to a CSV file?
+13. How do you calculate the mean salary of employees in the DataFrame?
+14. How can you find the oldest employee in the DataFrame?
+15. How do you count the number of employees in each department?
+16. How can you find the employee with the highest salary?
+17. What is the median age of employees?
+18. What is the maximum salary in the Sales department?
+19. How do you reset the index of the DataFrame?
